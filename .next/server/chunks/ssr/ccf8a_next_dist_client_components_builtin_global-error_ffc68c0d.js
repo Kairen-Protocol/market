@@ -1,0 +1,3 @@
+module.exports=[90584,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(72451);a.n(d("[project]/Build/forge-protocol/market/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},98211,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(72451);a.n(d("[project]/Build/forge-protocol/market/node_modules/next/dist/client/components/builtin/global-error.js"))},99928,a=>{"use strict";a.i(90584);var b=a.i(98211);a.n(b)}];
+
+//# sourceMappingURL=ccf8a_next_dist_client_components_builtin_global-error_ffc68c0d.js.map

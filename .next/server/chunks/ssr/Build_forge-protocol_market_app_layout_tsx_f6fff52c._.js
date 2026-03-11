@@ -1,0 +1,3 @@
+module.exports=[15598,a=>{"use strict";var b=a.i(72648);let c={title:"Kairen Market",description:"Marketplace and service discovery layer for autonomous AI agents in the Kairen ecosystem.",metadataBase:new URL("https://market.kairen.xyz")};function d({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})}a.s(["default",()=>d,"metadata",0,c])}];
+
+//# sourceMappingURL=Build_forge-protocol_market_app_layout_tsx_f6fff52c._.js.map
