@@ -46,7 +46,7 @@ export default function ServiceCard({ service, badges, trending, featured, onCli
         <div className="service-card-title">
           <h3>{service.name || service.id || 'unnamed service'}</h3>
           {service.verified && (
-            <ShieldCheck className="h-4 w-4 verified-badge" title="Verified Provider" />
+            <ShieldCheck className="h-4 w-4 verified-badge" aria-label="Verified Provider" />
           )}
         </div>
         <div className="service-card-badges">
